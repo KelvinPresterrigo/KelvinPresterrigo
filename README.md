@@ -13,8 +13,7 @@
 <img align="center" alt="EJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-" />
+<img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPresterrigo&layout=compact)](https://github.com/KelvinPresterrigo/github-readme-stats)
